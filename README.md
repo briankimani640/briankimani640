@@ -14,35 +14,35 @@
 - 🇰🇪 Based in Kenya
 - 🎯 Mission: Build companies that impact millions.
 
-  ## Tech Stack
- # Languages
+  # Tech Stack
+ ### Languages
 HTML,
 CSS,
 JavaScript,
 Python,
 SQL,
 
-# Frontend
+### Frontend
 React,
 Bootstrap,
 Tailwind,
 
-# Backend
+### Backend
 Django,
 Node.js,
 
-# Database
+### Database
 MySQL,
 SQLite,
 Firebase,
 
-# Tools
+### Tools
 Git,
 GitHub,
 VS Code,
 Postman,
 
-# Networking
+### Networking
 Cisco
 Huawei HCIA
 Linux
