@@ -1,6 +1,5 @@
 import urllib.request
 import json
-import re
 
 def fetch_quote():
     url = "https://official-joke-api.appspot.com/jokes/programming/random"
@@ -18,13 +17,23 @@ def update_readme():
 
     new_quote = fetch_quote()
     
-    # Replace content between marker tags
-    pattern = r"()(.*?)()"
-    replacement = f"\\1\n\n{new_quote}\n\n\\3"
-    updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+    start_tag = "<!-- START_SECTION:quote -->"
+    end_tag = "<!-- END_SECTION:quote -->"
 
-    with open("README.md", "w", encoding="utf-8") as file:
-        file.write(updated_content)
+    # Verify both tags exist in the file
+    if start_tag in content and end_tag in content:
+        # Grabs everything before the very first start tag
+        before = content.split(start_tag)[0]
+        # Grabs everything after the very last end tag (ignoring any duplicates in between)
+        after = content.split(end_tag)[-1]
+        
+        # Reconstructs the file cleanly with exactly one pair of tags
+        updated_content = f"{before}{start_tag}\n\n{new_quote}\n\n{end_tag}{after}"
+        
+        with open("README.md", "w", encoding="utf-8") as file:
+            file.write(updated_content)
+    else:
+        print("Error: Could not find the START or END marker tags in README.md.")
 
 if __name__ == "__main__":
     update_readme()
