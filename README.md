@@ -1,6 +1,1302 @@
-# Hi there 👋
 
-Here is your daily dose of dev humor
 
-<!-- START_SECTION:quote -->
-<!-- END_SECTION:quote -->
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
+
+
+**"Why did the programmer bring a ladder to work?"**
+
+*They heard the code needed to be debugged from a higher level.*
+
