@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi 👋, I'm Brian Kimani
 
 ### Computer Science Student | Full Stack Developer | Entrepreneur
