@@ -15,34 +15,34 @@
 - 🎯 Mission: Build companies that impact millions.
 
   ## Tech Stack
-  Languages
-HTML
-CSS
-JavaScript
-Python
-SQL
+ # Languages
+HTML,
+CSS,
+JavaScript,
+Python,
+SQL,
 
-Frontend
-React
-Bootstrap
-Tailwind
+# Frontend
+React,
+Bootstrap,
+Tailwind,
 
-Backend
-Django
-Node.js
+# Backend
+Django,
+Node.js,
 
-Database
-MySQL
-SQLite
-Firebase
+# Database
+MySQL,
+SQLite,
+Firebase,
 
-Tools
-Git
-GitHub
-VS Code
-Postman
+# Tools
+Git,
+GitHub,
+VS Code,
+Postman,
 
-Networking
+# Networking
 Cisco
 Huawei HCIA
 Linux
