@@ -1,62 +1,12834 @@
 
-# Hi 👋, I'm Brian Kimani
 
-### Computer Science Student | Full Stack Developer | Entrepreneur
+**"Why did the programmer always carry a pencil?"**
 
-> Building software that solves real-world African problems.
+*They preferred to write in C#.*
 
-## 🚀 About Me
 
-- 🎓 Mathematics & Computer Science @ JKUAT
-- 💻 Full Stack Web Developer
-- 🌐 Learning Networking & Cloud
-- 📈 Interested in Web Development, AI, Startups and Business
-- 🇰🇪 Based in Kenya
-- 🎯 Mission: Build companies that impact millions.
 
-  # Tech Stack
- ### Languages
-HTML,
-CSS,
-JavaScript,
-Python,
-SQL,
+**"Why did the programmer always carry a pencil?"**
 
-### Frontend
-React,
-Bootstrap,
-Tailwind,
+*They preferred to write in C#.*
 
-### Backend
-Django,
-Node.js,
 
-### Database
-MySQL,
-SQLite,
-Firebase,
 
-### Tools
-Git,
-GitHub,
-VS Code,
-Postman,
+**"Why did the programmer always carry a pencil?"**
 
-### Networking
-Cisco
-Huawei HCIA
-Linux
-<!--
-**briankimani640/briankimani640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*They preferred to write in C#.*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
+
+
+**"Why did the programmer always carry a pencil?"**
+
+*They preferred to write in C#.*
+
