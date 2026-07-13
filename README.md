@@ -10,7 +10,7 @@
 - 🎓 Mathematics & Computer Science @ JKUAT
 - 💻 Full Stack Web Developer
 - 🌐 Learning Networking & Cloud
-- 📈 Interested in AI, Startups and Business
+- 📈 Interested in Web Development, AI, Startups and Business
 - 🇰🇪 Based in Kenya
 - 🎯 Mission: Build companies that impact millions.
 
