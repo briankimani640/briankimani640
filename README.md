@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What's the object-oriented way to become wealthy?"**
+**"Why would a guitarist become a good programmer?"**
 
-*Inheritance*
+*He's adept at riffing in C#.*
 <!-- END_SECTION:quote -->
 
 ---
