@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why would a guitarist become a good programmer?"**
+**"Why did the programmer always mix up Halloween and Christmas?"**
 
-*He's adept at riffing in C#.*
+*Because Oct 31 equals Dec 25.*
 <!-- END_SECTION:quote -->
 
 ---
