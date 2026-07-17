@@ -2,10 +2,7 @@
 
 I'm a Mathematics and Computer Science student and full-stack software developer who enjoys building clean, scalable web and mobile applications. 
 
-### 🚀 What I'm Up To
-- 💻 Actively developing modular full-stack applications and RESTful APIs.
-- 📱 Exploring cross-platform mobile development and database architecture.
-- 🌱 Continuously refining my skills in algorithmic problem-solving and clean code practices.
+
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python, JavaScript, TypeScript, SQL, HTML5/CSS3
