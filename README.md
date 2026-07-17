@@ -9,7 +9,11 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 - 🌱 Continuously refining my skills in algorithmic problem-solving and clean code practices.
 
   
-
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, JavaScript, TypeScript, SQL, HTML5/CSS3
+- **Frameworks & Libraries:** Django, React, React Native, Tailwind CSS, Bootstrap
+- **Databases & ORMs:** PostgreSQL, MySQL, SQLite, Prisma ORM
+- **Tools & Workflow:** Git, GitHub, Linux, VS Code
 
 ---
 
