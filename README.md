@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why do Java programmers wear glasses?"**
+**"Why do C# and Java developers keep breaking their keyboards?"**
 
-*Because they don't C#.*
+*Because they use a strongly typed language.*
 <!-- END_SECTION:quote -->
 
 ---
