@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"How many React developers does it take to change a lightbulb?"**
+**"Why did the programmer go broke?"**
 
-*None, they prefer dark mode.*
+*He used up all his cache*
 <!-- END_SECTION:quote -->
 
 ---
