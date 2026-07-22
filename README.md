@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the programmer go broke?"**
+**"What do you get when you cross a React developer with a mathematician?"**
 
-*He used up all his cache*
+*A function component.*
 <!-- END_SECTION:quote -->
 
 ---
