@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"['hip', 'hip']"**
+**"What's the best part about TCP jokes?"**
 
-*(hip hip array)*
+*I get to keep telling them until you get them.*
 <!-- END_SECTION:quote -->
 
 ---
