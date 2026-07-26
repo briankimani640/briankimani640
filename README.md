@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What's the best part about TCP jokes?"**
+**"How do you generate a random string?"**
 
-*I get to keep telling them until you get them.*
+*Put a Windows user in front of Vim and tell them to exit.*
 <!-- END_SECTION:quote -->
 
 ---
