@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"How do you generate a random string?"**
+**"Why did the programmer go broke?"**
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*He used up all his cache*
 <!-- END_SECTION:quote -->
 
 ---
