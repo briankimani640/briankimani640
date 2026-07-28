@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the programmer go broke?"**
+**"Why did the developer quit his job?"**
 
-*He used up all his cache*
+*Because he didn't get arrays.*
 <!-- END_SECTION:quote -->
 
 ---
