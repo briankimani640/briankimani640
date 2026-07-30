@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"I just got fired from my job at the keyboard factory."**
+**"Why did the programmer's wife leave him?"**
 
-*They told me I wasn't putting in enough shifts.*
+*He didn't know how to commit.*
 <!-- END_SECTION:quote -->
 
 ---
