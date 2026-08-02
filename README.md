@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the private classes break up?"**
+**"Where did the API go to eat?"**
 
-*Because they never saw each other.*
+*To the RESTaurant.*
 <!-- END_SECTION:quote -->
 
 ---
