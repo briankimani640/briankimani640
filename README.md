@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Where did the API go to eat?"**
+**"Why don't programmers like nature?"**
 
-*To the RESTaurant.*
+*There's too many bugs.*
 <!-- END_SECTION:quote -->
 
 ---
