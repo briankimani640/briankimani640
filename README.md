@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why don't programmers like nature?"**
+**"Why did the private classes break up?"**
 
-*There's too many bugs.*
+*Because they never saw each other.*
 <!-- END_SECTION:quote -->
 
 ---
