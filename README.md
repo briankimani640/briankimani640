@@ -1,4 +1,4 @@
-# I'm Brian 
+# I'm Brian Maina
 
 I'm a Mathematics and Computer Science student and full-stack software developer who enjoys building clean, scalable web and mobile applications. 
 
