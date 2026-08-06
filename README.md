@@ -25,4 +25,4 @@ Here is a random programming joke fetched and updated automatically every day vi
 <!-- END_SECTION:quote -->
 
 ---
-💬 *Feel free to reach out or check out my repositories below!*
+ *Feel free to reach out or check out my repositories below!*
