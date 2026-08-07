@@ -1,13 +1,13 @@
-# I'm Brian Maina
+# Hi there, I'm Brian 👋
 
 I'm a Mathematics and Computer Science student and full-stack software developer who enjoys building clean, scalable web and mobile applications. 
 
-### What I'm Up To
--  Actively developing modular full-stack applications and RESTful APIs.
--  Exploring cross-platform mobile development and database architecture.
--  Continuously refining my skills in algorithmic problem-solving and clean code practices.
+### 🚀 What I'm Up To
+- 💻 Actively developing modular full-stack applications and RESTful APIs.
+- 📱 Exploring cross-platform mobile development and database architecture.
+- 🌱 Continuously refining my skills in algorithmic problem-solving and clean code practices.
 
-###  Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 - **Languages:** Python, JavaScript, TypeScript, SQL, HTML5/CSS3
 - **Frameworks & Libraries:** Django, React, React Native, Tailwind CSS, Bootstrap
 - **Databases & ORMs:** PostgreSQL, MySQL, SQLite, Prisma ORM
@@ -15,14 +15,14 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 
 ---
 
-###  Daily Dev Humor
+### ⚡ Daily Dev Humor
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the programmer bring a ladder to work?"**
+**"A user interface is like a joke."**
 
-*They heard the code needed to be debugged from a higher level.*
+*If you have to explain it then it is not that good.*
 <!-- END_SECTION:quote -->
 
 ---
- *Feel free to reach out or check out my repositories below!*
+💬 *Feel free to reach out or check out my repositories below!*
