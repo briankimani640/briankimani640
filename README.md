@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"A user interface is like a joke."**
+**"What's the object-oriented way to become wealthy?"**
 
-*If you have to explain it then it is not that good.*
+*Inheritance*
 <!-- END_SECTION:quote -->
 
 ---
