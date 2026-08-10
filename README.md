@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What's the best thing about a Boolean?"**
+**"A user interface is like a joke."**
 
-*Even if you're wrong, you're only off by a bit.*
+*If you have to explain it then it is not that good.*
 <!-- END_SECTION:quote -->
 
 ---
