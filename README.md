@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"A user interface is like a joke."**
+**"How many React developers does it take to change a lightbulb?"**
 
-*If you have to explain it then it is not that good.*
+*None, they prefer dark mode.*
 <!-- END_SECTION:quote -->
 
 ---
