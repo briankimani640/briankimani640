@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"How many React developers does it take to change a lightbulb?"**
+**"What do you get when you cross a React developer with a mathematician?"**
 
-*None, they prefer dark mode.*
+*A function component.*
 <!-- END_SECTION:quote -->
 
 ---
