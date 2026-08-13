@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What do you get when you cross a React developer with a mathematician?"**
+**"Why did the programmer bring a broom to work?"**
 
-*A function component.*
+*To clean up all the bugs.*
 <!-- END_SECTION:quote -->
 
 ---
