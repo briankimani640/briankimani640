@@ -16,12 +16,12 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 ---
 
 ### ⚡ Daily Dev Humor
-
+Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the programmer bring a broom to work?"**
+**"If you put a million monkeys at a million keyboards, one of them will eventually write a Java program"**
 
-*To clean up all the bugs.*
+*the rest of them will write Perl*
 <!-- END_SECTION:quote -->
 
 ---
