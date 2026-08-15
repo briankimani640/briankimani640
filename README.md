@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"If you put a million monkeys at a million keyboards, one of them will eventually write a Java program"**
+**"Why did the programmer always carry a pencil?"**
 
-*the rest of them will write Perl*
+*They preferred to write in C#.*
 <!-- END_SECTION:quote -->
 
 ---
