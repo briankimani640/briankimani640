@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the developer break up with their keyboard?"**
+**"What's the best thing about a Boolean?"**
 
-*It just wasn't their type anymore.*
+*Even if you're wrong, you're only off by a bit.*
 <!-- END_SECTION:quote -->
 
 ---
