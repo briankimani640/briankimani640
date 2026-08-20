@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"A DHCP packet walks into a bar and asks for a beer."**
+**"Knock-knock."**
 
-*Bartender says, "here, but I’ll need that back in an hour!"*
+*A race condition. Who is there?*
 <!-- END_SECTION:quote -->
 
 ---
