@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Knock-knock."**
+**"I was gonna tell you a joke about UDP..."**
 
-*A race condition. Who is there?*
+*...but you might not get it.*
 <!-- END_SECTION:quote -->
 
 ---
