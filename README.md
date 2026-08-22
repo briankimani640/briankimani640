@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"I was gonna tell you a joke about UDP..."**
+**"What's the object-oriented way to become wealthy?"**
 
-*...but you might not get it.*
+*Inheritance*
 <!-- END_SECTION:quote -->
 
 ---
