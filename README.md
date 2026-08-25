@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why dot net developers don't wear glasses?"**
+**"A programmer puts two glasses on his bedside table before going to sleep."**
 
-*Because they see sharp.*
+*A full one, in case he gets thirsty, and an empty one, in case he doesn’t.*
 <!-- END_SECTION:quote -->
 
 ---
