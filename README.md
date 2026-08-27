@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"How do you comfort a designer?"**
+**"Why do C# and Java developers keep breaking their keyboards?"**
 
-*You give them some space... between the elements.*
+*Because they use a strongly typed language.*
 <!-- END_SECTION:quote -->
 
 ---
