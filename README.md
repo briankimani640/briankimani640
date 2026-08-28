@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why do C# and Java developers keep breaking their keyboards?"**
+**"Why did the developer go broke buying Bitcoin?"**
 
-*Because they use a strongly typed language.*
+*He kept calling it bytecoin and didn't get any.*
 <!-- END_SECTION:quote -->
 
 ---
