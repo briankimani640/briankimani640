@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What's the object-oriented way to become wealthy?"**
+**"Why did the programmer quit his job?"**
 
-*Inheritance*
+*Because he didn't get arrays.*
 <!-- END_SECTION:quote -->
 
 ---
