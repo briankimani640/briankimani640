@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Knock-knock."**
+**"Why did the programmer bring a ladder to work?"**
 
-*A race condition. Who is there?*
+*They heard the code needed to be debugged from a higher level.*
 <!-- END_SECTION:quote -->
 
 ---
