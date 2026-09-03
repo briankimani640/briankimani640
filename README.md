@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the programmer bring a ladder to work?"**
+**"How many programmers does it take to change a lightbulb?"**
 
-*They heard the code needed to be debugged from a higher level.*
+*None that's a hardware problem*
 <!-- END_SECTION:quote -->
 
 ---
