@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"How many programmers does it take to change a lightbulb?"**
+**"What's the best thing about a Boolean?"**
 
-*None that's a hardware problem*
+*Even if you're wrong, you're only off by a bit.*
 <!-- END_SECTION:quote -->
 
 ---
