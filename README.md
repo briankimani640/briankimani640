@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What is the most used language in programming?"**
+**"Lady: How do I spread love in this cruel world?"**
 
-*Profanity.*
+*Random Dude: [...💘]*
 <!-- END_SECTION:quote -->
 
 ---
