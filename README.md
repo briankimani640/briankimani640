@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"There are 10 types of people in this world..."**
+**"Why did the developer go to therapy?"**
 
-*Those who understand binary and those who don't*
+*They had too many unresolved issues.*
 <!-- END_SECTION:quote -->
 
 ---
