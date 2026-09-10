@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the developer go to therapy?"**
+**"Why don't React developers like nature?"**
 
-*They had too many unresolved issues.*
+*They prefer the virtual DOM.*
 <!-- END_SECTION:quote -->
 
 ---
