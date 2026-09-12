@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why don't React developers like nature?"**
+**"Why did the programmer always carry a pencil?"**
 
-*They prefer the virtual DOM.*
+*They preferred to write in C#.*
 <!-- END_SECTION:quote -->
 
 ---
