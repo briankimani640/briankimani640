@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the programmer always carry a pencil?"**
+**"Why did the designer break up with their font?"**
 
-*They preferred to write in C#.*
+*Because it wasn't their type.*
 <!-- END_SECTION:quote -->
 
 ---
