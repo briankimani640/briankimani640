@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the designer break up with their font?"**
+**"Where do programmers like to hangout?"**
 
-*Because it wasn't their type.*
+*The Foo Bar.*
 <!-- END_SECTION:quote -->
 
 ---
