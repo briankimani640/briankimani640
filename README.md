@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What's the best thing about a Boolean?"**
+**"Why did the programmer quit his job?"**
 
-*Even if you're wrong, you're only off by a bit.*
+*Because he didn't get arrays.*
 <!-- END_SECTION:quote -->
 
 ---
