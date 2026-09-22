@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Where do programmers like to hangout?"**
+**"Why don't programmers like nature?"**
 
-*The Foo Bar.*
+*There's too many bugs.*
 <!-- END_SECTION:quote -->
 
 ---
