@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why don't programmers like nature?"**
+**"How many React developers does it take to change a lightbulb?"**
 
-*There's too many bugs.*
+*None, they prefer dark mode.*
 <!-- END_SECTION:quote -->
 
 ---
