@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"How many React developers does it take to change a lightbulb?"**
+**"There are 10 types of people in this world..."**
 
-*None, they prefer dark mode.*
+*Those who understand binary and those who don't*
 <!-- END_SECTION:quote -->
 
 ---
