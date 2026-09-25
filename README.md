@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"There are 10 types of people in this world..."**
+**"What's the best thing about a Boolean?"**
 
-*Those who understand binary and those who don't*
+*Even if you're wrong, you're only off by a bit.*
 <!-- END_SECTION:quote -->
 
 ---
