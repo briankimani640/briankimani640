@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"I just got fired from my job at the keyboard factory."**
+**"Why did the programmer always mix up Halloween and Christmas?"**
 
-*They told me I wasn't putting in enough shifts.*
+*Because Oct 31 equals Dec 25.*
 <!-- END_SECTION:quote -->
 
 ---
