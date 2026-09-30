@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Lady: How do I spread love in this cruel world?"**
+**"Why did the programmer go broke?"**
 
-*Random Dude: [...💘]*
+*He used up all his cache*
 <!-- END_SECTION:quote -->
 
 ---
