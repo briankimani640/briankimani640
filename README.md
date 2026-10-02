@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"To understand what recursion is..."**
+**"Why don't programmers like nature?"**
 
-*You must first understand what recursion is*
+*Too many bugs.*
 <!-- END_SECTION:quote -->
 
 ---
