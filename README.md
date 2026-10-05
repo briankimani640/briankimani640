@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the developer break up with their keyboard?"**
+**"Why did the developer quit his job?"**
 
-*It just wasn't their type anymore.*
+*Because he didn't get arrays.*
 <!-- END_SECTION:quote -->
 
 ---
