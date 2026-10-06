@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the developer quit his job?"**
+**"Why did the programmer go to art school?"**
 
-*Because he didn't get arrays.*
+*He wanted to learn how to code outside the box.*
 <!-- END_SECTION:quote -->
 
 ---
