@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the programmer go to art school?"**
+**"Why don't programmers like nature?"**
 
-*He wanted to learn how to code outside the box.*
+*Too many bugs.*
 <!-- END_SECTION:quote -->
 
 ---
