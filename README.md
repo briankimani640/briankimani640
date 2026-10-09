@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why was the JavaScript developer sad?"**
+**"Why did the programmer go to art school?"**
 
-*He didn't know how to null his feelings.*
+*He wanted to learn how to code outside the box.*
 <!-- END_SECTION:quote -->
 
 ---
