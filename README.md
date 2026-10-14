@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the programmer bring a broom to work?"**
+**"['hip', 'hip']"**
 
-*To clean up all the bugs.*
+*(hip hip array)*
 <!-- END_SECTION:quote -->
 
 ---
