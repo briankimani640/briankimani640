@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"How do you generate a random string?"**
+**"Why was the designer always cold?"**
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*Because they always used too much ice-olation.*
 <!-- END_SECTION:quote -->
 
 ---
