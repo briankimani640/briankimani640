@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why was the designer always cold?"**
+**"What's the object-oriented way to become wealthy?"**
 
-*Because they always used too much ice-olation.*
+*Inheritance*
 <!-- END_SECTION:quote -->
 
 ---
