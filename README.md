@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Hey, wanna hear a joke?"**
+**"Why do programmers always get Christmas and Halloween mixed up?"**
 
-*Parsing HTML with regex.*
+*Because DEC 25 = OCT 31*
 <!-- END_SECTION:quote -->
 
 ---
