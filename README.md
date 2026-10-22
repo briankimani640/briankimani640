@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why do programmers always get Christmas and Halloween mixed up?"**
+**"Why did the developer quit his job?"**
 
-*Because DEC 25 = OCT 31*
+*Because he didn't get arrays.*
 <!-- END_SECTION:quote -->
 
 ---
