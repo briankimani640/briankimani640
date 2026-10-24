@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What's the best part about TCP jokes?"**
+**"A SQL query walks into a bar, walks up to two tables and asks..."**
 
-*I get to keep telling them until you get them.*
+*'Can I join you?'*
 <!-- END_SECTION:quote -->
 
 ---
