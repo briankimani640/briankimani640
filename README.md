@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What goes after USA?"**
+**"Why did the developer quit his job?"**
 
-*USB.*
+*Because he didn't get arrays.*
 <!-- END_SECTION:quote -->
 
 ---
