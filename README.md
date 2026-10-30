@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the programmer bring a broom to work?"**
+**"Why did the developer go broke buying Bitcoin?"**
 
-*To clean up all the bugs.*
+*He kept calling it bytecoin and didn't get any.*
 <!-- END_SECTION:quote -->
 
 ---
