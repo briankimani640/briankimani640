@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why did the developer go broke buying Bitcoin?"**
+**"What's the object-oriented way to become wealthy?"**
 
-*He kept calling it bytecoin and didn't get any.*
+*Inheritance*
 <!-- END_SECTION:quote -->
 
 ---
