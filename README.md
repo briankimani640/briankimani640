@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What's the object-oriented way to become wealthy?"**
+**"What did the router say to the doctor?"**
 
-*Inheritance*
+*It hurts when IP.*
 <!-- END_SECTION:quote -->
 
 ---
