@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What did the router say to the doctor?"**
+**"Why don't React developers like nature?"**
 
-*It hurts when IP.*
+*They prefer the virtual DOM.*
 <!-- END_SECTION:quote -->
 
 ---
