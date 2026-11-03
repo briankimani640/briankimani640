@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"Why don't React developers like nature?"**
+**"What’s the object-oriented way to become wealthy?"**
 
-*They prefer the virtual DOM.*
+*Inheritance.*
 <!-- END_SECTION:quote -->
 
 ---
