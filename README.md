@@ -19,9 +19,9 @@ I'm a Mathematics and Computer Science student and full-stack software developer
 Here is a random programming joke fetched and updated automatically every day via GitHub Actions:
 
 <!-- START_SECTION:quote -->
-**"What did the Java code say to the C code?"**
+**"Code is like humor. When you have to explain it, it’s bad."**
 
-*You've got no class.*
+*– Cory House*
 <!-- END_SECTION:quote -->
 
 ---
